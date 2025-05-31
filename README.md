@@ -80,7 +80,9 @@ data-discovery/
 ```
 
 ## 👨‍🏫 Equipo Docente
+
 Mg. John Caballero Terrazos – Data Science Lead, BCP
+
 Juan Gallego – Asistente académico
 
 
